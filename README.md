@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on analyses of scRNA-seq data.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on inducing HSC regeneration in vitro.
+- 🤔 I’m looking for help with mathematics and experiments in vitro.
+- 💬 Ask me about bioinformatics.
+- 📫 How to reach me: li.forfuture@gmail.com
+- 😄 Pronouns: Hazard
+- ⚡ Fun fact: I love data visualization.
 
 <!--
 **zzwch/zzwch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
