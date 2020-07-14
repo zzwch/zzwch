@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on inducing HSC regeneration in vitro.
 - 🤔 I’m looking for help with mathematics and experiments in vitro.
 - 💬 Ask me about bioinformatics.
-- 📫 How to reach me: li.forfuture@gmail.com
+- 📫 How to reach me: zzwchsxx@gmail.com
 - 😄 Pronouns: Hazard
 - ⚡ Fun fact: I love data visualization.
 
